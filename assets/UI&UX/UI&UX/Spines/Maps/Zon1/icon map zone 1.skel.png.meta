@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "efbb8bad-da44-45a4-9d8f-28866b0035a0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 616,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "icon map zone 1.skel": {
+      "ver": "1.0.6",
+      "uuid": "01b22731-c063-4cb5-a529-0b26ef032a9c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "efbb8bad-da44-45a4-9d8f-28866b0035a0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 612,
+      "height": 196,
+      "rawWidth": 616,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

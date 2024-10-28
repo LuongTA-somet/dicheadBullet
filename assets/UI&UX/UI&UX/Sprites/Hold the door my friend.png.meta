@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ecf820c4-6f69-46d9-bbc7-ce90f8518ed6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 112,
+  "platformSettings": {},
+  "subMetas": {
+    "Hold the door my friend": {
+      "ver": "1.0.6",
+      "uuid": "5203bc97-e528-4f56-9434-e65874fe5d44",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ecf820c4-6f69-46d9-bbc7-ce90f8518ed6",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 112,
+      "rawWidth": 1280,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

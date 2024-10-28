@@ -1,0 +1,237 @@
+
+ZONE7_CITY.skel.png
+size: 142,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FLoor
+  rotate: true
+  xy: 2, 394
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+Pad
+  rotate: false
+  xy: 2, 208
+  size: 101, 184
+  orig: 101, 184
+  offset: 0, 0
+  index: -1
+Pad2
+  rotate: true
+  xy: 92, 173
+  size: 25, 46
+  orig: 27, 48
+  offset: 1, 1
+  index: -1
+Pavement
+  rotate: true
+  xy: 105, 200
+  size: 89, 33
+  orig: 89, 33
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 2, 144
+  size: 88, 62
+  orig: 90, 64
+  offset: 1, 1
+  index: -1
+chimney
+  rotate: false
+  xy: 124, 109
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+chimney base
+  rotate: false
+  xy: 78, 51
+  size: 36, 29
+  orig: 38, 31
+  offset: 1, 1
+  index: -1
+cotdien
+  rotate: true
+  xy: 2, 110
+  size: 32, 80
+  orig: 34, 82
+  offset: 1, 1
+  index: -1
+dog1
+  rotate: false
+  xy: 124, 443
+  size: 16, 19
+  orig: 18, 21
+  offset: 1, 1
+  index: -1
+dog2
+  rotate: false
+  xy: 124, 402
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+dog3
+  rotate: false
+  xy: 124, 382
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+dog6
+  rotate: false
+  xy: 124, 382
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+dog4
+  rotate: false
+  xy: 124, 422
+  size: 16, 19
+  orig: 18, 21
+  offset: 1, 1
+  index: -1
+dog5
+  rotate: false
+  xy: 124, 464
+  size: 16, 20
+  orig: 18, 22
+  offset: 1, 1
+  index: -1
+house
+  rotate: false
+  xy: 2, 486
+  size: 129, 187
+  orig: 129, 187
+  offset: 0, 0
+  index: -1
+running_man_1
+  rotate: false
+  xy: 113, 15
+  size: 25, 32
+  orig: 27, 34
+  offset: 1, 1
+  index: -1
+running_man_2
+  rotate: false
+  xy: 116, 49
+  size: 23, 31
+  orig: 25, 33
+  offset: 1, 1
+  index: -1
+smoke_1
+  rotate: true
+  xy: 40, 47
+  size: 28, 36
+  orig: 30, 38
+  offset: 1, 1
+  index: -1
+smoke_2
+  rotate: true
+  xy: 84, 113
+  size: 27, 38
+  orig: 29, 40
+  offset: 1, 1
+  index: -1
+smoke_3
+  rotate: true
+  xy: 92, 142
+  size: 29, 38
+  orig: 31, 40
+  offset: 1, 1
+  index: -1
+smoke_4
+  rotate: true
+  xy: 84, 82
+  size: 29, 37
+  orig: 31, 39
+  offset: 1, 1
+  index: -1
+smoke_5
+  rotate: true
+  xy: 2, 76
+  size: 32, 36
+  orig: 34, 38
+  offset: 1, 1
+  index: -1
+smoke_6
+  rotate: true
+  xy: 40, 77
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+soldier_1_1
+  rotate: true
+  xy: 2, 55
+  size: 19, 33
+  orig: 21, 35
+  offset: 1, 1
+  index: -1
+soldier_1_2
+  rotate: true
+  xy: 2, 34
+  size: 19, 33
+  orig: 21, 35
+  offset: 1, 1
+  index: -1
+soldier_1_3
+  rotate: true
+  xy: 105, 361
+  size: 19, 35
+  orig: 21, 37
+  offset: 1, 1
+  index: -1
+soldier_1_4
+  rotate: true
+  xy: 37, 26
+  size: 19, 33
+  orig: 21, 35
+  offset: 1, 1
+  index: -1
+soldier_1_5
+  rotate: false
+  xy: 105, 326
+  size: 34, 33
+  orig: 36, 35
+  offset: 1, 1
+  index: -1
+soldier_1_6
+  rotate: true
+  xy: 105, 291
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+soldier_2_1
+  rotate: true
+  xy: 78, 27
+  size: 22, 33
+  orig: 24, 35
+  offset: 1, 1
+  index: -1
+soldier_2_2
+  rotate: true
+  xy: 2, 10
+  size: 22, 32
+  orig: 24, 34
+  offset: 1, 1
+  index: -1
+soldier_3_1
+  rotate: true
+  xy: 72, 3
+  size: 22, 31
+  orig: 24, 33
+  offset: 1, 1
+  index: -1
+soldier_3_2
+  rotate: true
+  xy: 36, 2
+  size: 22, 30
+  orig: 24, 32
+  offset: 1, 1
+  index: -1

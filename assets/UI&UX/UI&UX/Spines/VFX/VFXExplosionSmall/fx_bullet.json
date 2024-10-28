@@ -1,0 +1,175 @@
+{
+"skeleton": {
+	"hash": "TUCj0HxaZRkQcnCx2psmuA/rJoY",
+	"spine": "3.8.99",
+	"x": -55.5,
+	"y": -32,
+	"width": 111,
+	"height": 64,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bom_fx", "parent": "root" },
+	{ "name": "thunder_fx", "parent": "root" },
+	{ "name": "thunder_fx2", "parent": "root" }
+],
+"slots": [
+	{ "name": "1", "bone": "bom_fx", "blend": "additive" },
+	{ "name": "bullet", "bone": "root", "color": "ffffff00", "attachment": "bullet" },
+	{ "name": "images/thunder_fx/thunder_1", "bone": "thunder_fx", "blend": "additive" },
+	{ "name": "images/thunder_fx/thunder_2", "bone": "thunder_fx2", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"images/fx_bomb/Expl01_01": { "width": 9, "height": 9 },
+				"images/fx_bomb/Expl01_02": { "width": 12, "height": 12 },
+				"images/fx_bomb/Expl01_03": { "width": 33, "height": 35 },
+				"images/fx_bomb/Expl01_04": { "width": 45, "height": 49 },
+				"images/fx_bomb/Expl01_05": { "width": 89, "height": 89 },
+				"images/fx_bomb/Expl01_06": { "width": 86, "height": 86 },
+				"images/fx_bomb/Expl01_07": { "width": 85, "height": 84 },
+				"images/fx_bomb/Expl01_08": { "width": 83, "height": 82 },
+				"images/fx_bomb/Expl01_09": { "width": 84, "height": 80 },
+				"images/fx_bomb/Expl01_10": { "width": 79, "height": 71 },
+				"images/fx_bomb/Expl01_11": { "width": 80, "height": 72 },
+				"images/fx_bomb/Expl01_12": { "width": 80, "height": 72 },
+				"images/fx_bomb/Expl01_13": { "width": 81, "height": 72 },
+				"images/fx_bomb/Expl01_14": { "width": 79, "height": 72 },
+				"images/fx_bomb/Expl01_15": { "width": 77, "height": 72 },
+				"images/fx_bomb/Expl01_16": { "width": 79, "height": 72 },
+				"images/fx_bomb/Expl01_17": { "width": 77, "height": 72 },
+				"images/fx_bomb/Expl01_18": { "width": 67, "height": 62 },
+				"images/fx_bomb/Expl01_19": { "width": 56, "height": 53 },
+				"images/fx_bomb/Expl01_20": { "width": 44, "height": 42 }
+			},
+			"images/thunder_fx/thunder_1": {
+				"images/thunder_fx/thunder_1": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_2": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_3": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_4": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_5": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_6": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_7": { "width": 144, "height": 116 }
+			},
+			"images/thunder_fx/thunder_2": {
+				"images/thunder_fx/thunder_1": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_2": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_3": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_4": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_5": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_6": { "width": 144, "height": 116 },
+				"images/thunder_fx/thunder_7": { "width": 144, "height": 116 }
+			}
+		}
+	},
+	{
+		"name": "phao",
+		"attachments": {
+			"bullet": {
+				"bullet": { "name": "images/phao/bullet", "width": 64, "height": 32 }
+			}
+		}
+	}
+],
+"events": {
+	"attackready": {},
+	"complete": {},
+	"down": {},
+	"up": {}
+},
+"animations": {
+	"bullet": {
+		"slots": {
+			"bullet": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			}
+		}
+	},
+	"fx_enemi": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "time": 0.5333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "images/fx_bomb/Expl01_01" },
+					{ "time": 0.0333, "name": "images/fx_bomb/Expl01_02" },
+					{ "time": 0.0667, "name": "images/fx_bomb/Expl01_03" },
+					{ "time": 0.1, "name": "images/fx_bomb/Expl01_04" },
+					{ "time": 0.1333, "name": "images/fx_bomb/Expl01_05" },
+					{ "time": 0.1667, "name": "images/fx_bomb/Expl01_06" },
+					{ "time": 0.2, "name": "images/fx_bomb/Expl01_07" },
+					{ "time": 0.2333, "name": "images/fx_bomb/Expl01_08" },
+					{ "time": 0.2667, "name": "images/fx_bomb/Expl01_09" },
+					{ "time": 0.3, "name": "images/fx_bomb/Expl01_10" },
+					{ "time": 0.3333, "name": "images/fx_bomb/Expl01_11" },
+					{ "time": 0.3667, "name": "images/fx_bomb/Expl01_12" },
+					{ "time": 0.4, "name": "images/fx_bomb/Expl01_13" },
+					{ "time": 0.4333, "name": "images/fx_bomb/Expl01_14" },
+					{ "time": 0.4667, "name": "images/fx_bomb/Expl01_15" },
+					{ "time": 0.5, "name": "images/fx_bomb/Expl01_16" },
+					{ "time": 0.5333, "name": "images/fx_bomb/Expl01_17" },
+					{ "time": 0.5667, "name": "images/fx_bomb/Expl01_18" },
+					{ "time": 0.6, "name": "images/fx_bomb/Expl01_19" },
+					{ "time": 0.6333, "name": "images/fx_bomb/Expl01_20" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"images/thunder_fx/thunder_1": {
+				"attachment": [
+					{ "time": 0.1667, "name": "images/thunder_fx/thunder_1" },
+					{ "time": 0.2, "name": "images/thunder_fx/thunder_2" },
+					{ "time": 0.2333, "name": "images/thunder_fx/thunder_3" },
+					{ "time": 0.2667, "name": "images/thunder_fx/thunder_4" },
+					{ "time": 0.3, "name": "images/thunder_fx/thunder_5" },
+					{ "time": 0.3333, "name": "images/thunder_fx/thunder_6" },
+					{ "time": 0.3667, "name": "images/thunder_fx/thunder_7" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"images/thunder_fx/thunder_2": {
+				"attachment": [
+					{ "time": 0.3333, "name": "images/thunder_fx/thunder_1" },
+					{ "time": 0.3667, "name": "images/thunder_fx/thunder_2" },
+					{ "time": 0.4, "name": "images/thunder_fx/thunder_3" },
+					{ "time": 0.4333, "name": "images/thunder_fx/thunder_4" },
+					{ "time": 0.4667, "name": "images/thunder_fx/thunder_5" },
+					{ "time": 0.5, "name": "images/thunder_fx/thunder_6" },
+					{ "time": 0.5333, "name": "images/thunder_fx/thunder_7" },
+					{ "time": 0.5667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bom_fx": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5333, "x": 3, "y": 3, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 5.5, "y": 5.5 }
+				]
+			},
+			"thunder_fx": {
+				"scale": [
+					{ "x": 2, "y": 2 }
+				]
+			},
+			"thunder_fx2": {
+				"rotate": [
+					{ "angle": -167.1 }
+				],
+				"translate": [
+					{ "x": 30.82 }
+				]
+			}
+		}
+	}
+}
+}

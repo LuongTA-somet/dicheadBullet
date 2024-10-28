@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "354cb407-0ea9-4631-b401-732dbebcae78",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 118,
+  "platformSettings": {},
+  "subMetas": {
+    "Mine_Deloy": {
+      "ver": "1.0.6",
+      "uuid": "b86029ed-4b59-443b-89ef-e5aa7d4bacbc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "354cb407-0ea9-4631-b401-732dbebcae78",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

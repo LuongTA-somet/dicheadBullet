@@ -1,0 +1,223 @@
+
+icon map zone 1.skel.png
+size: 616,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 476, 129
+  size: 21, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+Layer 11
+  rotate: true
+  xy: 476, 115
+  size: 12, 28
+  orig: 14, 30
+  offset: 1, 1
+  index: -1
+Layer 12
+  rotate: true
+  xy: 413, 10
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+Layer 13
+  rotate: false
+  xy: 499, 129
+  size: 12, 28
+  orig: 14, 30
+  offset: 1, 1
+  index: -1
+Layer 14
+  rotate: false
+  xy: 441, 6
+  size: 21, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 209, 14
+  size: 202, 184
+  orig: 204, 186
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: false
+  xy: 520, 113
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 569, 39
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+Layer 9 copy 5
+  rotate: false
+  xy: 413, 84
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+blend
+  rotate: true
+  xy: 2, 7
+  size: 191, 205
+  orig: 193, 207
+  offset: 1, 1
+  index: -1
+dog1
+  rotate: false
+  xy: 458, 41
+  size: 16, 19
+  orig: 18, 21
+  offset: 1, 1
+  index: -1
+dog2
+  rotate: true
+  xy: 474, 2
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+dog3
+  rotate: true
+  xy: 494, 2
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+dog6
+  rotate: true
+  xy: 494, 2
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+dog4
+  rotate: false
+  xy: 597, 17
+  size: 16, 19
+  orig: 18, 21
+  offset: 1, 1
+  index: -1
+dog5
+  rotate: false
+  xy: 458, 62
+  size: 16, 20
+  orig: 18, 22
+  offset: 1, 1
+  index: -1
+fish 1
+  rotate: true
+  xy: 506, 115
+  size: 12, 8
+  orig: 14, 10
+  offset: 1, 1
+  index: -1
+fish 2
+  rotate: true
+  xy: 607, 186
+  size: 12, 7
+  orig: 14, 9
+  offset: 1, 1
+  index: -1
+fish 3
+  rotate: true
+  xy: 607, 158
+  size: 12, 6
+  orig: 14, 8
+  offset: 1, 1
+  index: -1
+fish 4
+  rotate: true
+  xy: 464, 27
+  size: 12, 8
+  orig: 14, 10
+  offset: 1, 1
+  index: -1
+fish 5
+  rotate: true
+  xy: 607, 172
+  size: 12, 7
+  orig: 14, 9
+  offset: 1, 1
+  index: -1
+fish 6
+  rotate: true
+  xy: 464, 13
+  size: 12, 8
+  orig: 14, 10
+  offset: 1, 1
+  index: -1
+general1
+  rotate: true
+  xy: 569, 20
+  size: 17, 26
+  orig: 19, 28
+  offset: 1, 1
+  index: -1
+general2
+  rotate: false
+  xy: 597, 38
+  size: 17, 25
+  orig: 19, 27
+  offset: 1, 1
+  index: -1
+sodier 1
+  rotate: false
+  xy: 476, 68
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+sodier2
+  rotate: true
+  xy: 413, 36
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+sodier3
+  rotate: true
+  xy: 524, 65
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+sodier4
+  rotate: true
+  xy: 476, 20
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+sodier5
+  rotate: true
+  xy: 569, 65
+  size: 46, 42
+  orig: 48, 44
+  offset: 1, 1
+  index: -1
+sodier6
+  rotate: false
+  xy: 521, 20
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+water
+  rotate: false
+  xy: 413, 159
+  size: 105, 39
+  orig: 107, 41
+  offset: 1, 1
+  index: -1

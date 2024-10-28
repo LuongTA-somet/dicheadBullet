@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "06356c9d-80ba-4001-870d-398d75eb91b6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1175,
+  "height": 116,
+  "platformSettings": {},
+  "subMetas": {
+    "Choose 2 new skills_": {
+      "ver": "1.0.6",
+      "uuid": "eca70cea-1e0f-4ca2-9cac-732b37bf893b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "06356c9d-80ba-4001-870d-398d75eb91b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1175,
+      "height": 116,
+      "rawWidth": 1175,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

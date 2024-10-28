@@ -1,0 +1,77 @@
+{
+"skeleton": { "hash": "d76mIMLM/PIMmeopcgsLJX3BUIQ", "spine": "3.7.94", "width": 21, "height": 41.01, "images": "C:/HieuSpinee/Spine/Jackal/NEW/images", "audio": "C:/Users/HieuNX/Desktop/Normal gun" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Scale", "parent": "root" },
+	{ "name": "Rotation_bone", "parent": "Scale" },
+	{ "name": "Body_gun", "parent": "Rotation_bone", "y": 0.83 },
+	{ "name": "bone shoot", "parent": "Body_gun", "x": 0.11, "y": 21.58 },
+	{ "name": "gun", "parent": "Body_gun", "x": 0.04, "y": 31.63 }
+],
+"slots": [
+	{ "name": "basic gun 3", "bone": "gun", "attachment": "gun 1- 1" },
+	{ "name": "Body_gun", "bone": "Body_gun", "attachment": "gun 1- 2" }
+],
+"skins": {
+	"default": {
+		"Body_gun": {
+			"gun 1- 2": { "x": -0.04, "y": -2.25, "width": 21, "height": 25 }
+		},
+		"basic gun 3": {
+			"gun 1- 1": { "x": -0.04, "y": -16.37, "width": 13, "height": 22 }
+		}
+	}
+},
+"animations": {
+	"Attack": {
+		"bones": {
+			"gun": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -2.45 },
+					{ "time": 0.1, "x": 0, "y": 1.74 },
+					{ "time": 0.1667, "x": 0, "y": -5.96 },
+					{ "time": 0.2667, "x": 0, "y": -2.45 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"bones": {
+			"Body_gun": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 0,
+						"y": 1.17,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"gun": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 0,
+						"y": -2.47,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

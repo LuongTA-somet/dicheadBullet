@@ -1,0 +1,41 @@
+
+Default.png
+size: 78,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire1
+  rotate: false
+  xy: 24, 5
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+Fire2
+  rotate: true
+  xy: 45, 4
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+nong do basic
+  rotate: false
+  xy: 45, 18
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+nong sung defaul
+  rotate: true
+  xy: 0, 0
+  size: 39, 23
+  orig: 41, 25
+  offset: 1, 1
+  index: -1
+than sung defaul
+  rotate: false
+  xy: 0, 40
+  size: 78, 39
+  orig: 80, 41
+  offset: 1, 1
+  index: -1

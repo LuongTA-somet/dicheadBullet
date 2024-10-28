@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1255ac6f-ca9d-498d-a3bf-b1b134aacbc3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 467,
+  "height": 598,
+  "platformSettings": {},
+  "subMetas": {
+    "Boss4_Box2": {
+      "ver": "1.0.6",
+      "uuid": "8d5066d6-d4ac-4505-8439-1c80a9641bd0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1255ac6f-ca9d-498d-a3bf-b1b134aacbc3",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 467,
+      "height": 598,
+      "rawWidth": 467,
+      "rawHeight": 598,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

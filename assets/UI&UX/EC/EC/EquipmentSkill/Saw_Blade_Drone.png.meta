@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "42507fc6-f945-4f50-a45a-b5064dbb69a5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 118,
+  "platformSettings": {},
+  "subMetas": {
+    "Saw_Blade_Drone": {
+      "ver": "1.0.6",
+      "uuid": "bd951c28-5d26-4a09-a64e-7587b50d743f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "42507fc6-f945-4f50-a45a-b5064dbb69a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

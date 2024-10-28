@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "361117f0-6787-4d80-bac2-634c391f6f57",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 468,
+  "height": 61,
+  "platformSettings": {},
+  "subMetas": {
+    "Venom shoot": {
+      "ver": "1.0.6",
+      "uuid": "e494c9e3-63db-4c82-a675-197da4a4e961",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "361117f0-6787-4d80-bac2-634c391f6f57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 468,
+      "height": 61,
+      "rawWidth": 468,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

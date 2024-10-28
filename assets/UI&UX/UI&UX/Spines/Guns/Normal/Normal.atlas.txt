@@ -1,0 +1,146 @@
+
+Normal.png
+size: 267,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire1
+  rotate: true
+  xy: 88, 0
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+Fire2
+  rotate: true
+  xy: 123, 7
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+Smoke1
+  rotate: true
+  xy: 0, 3
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+Smoke2
+  rotate: false
+  xy: 88, 21
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+Smoke3
+  rotate: false
+  xy: 211, 49
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Smoke4
+  rotate: false
+  xy: 211, 32
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lo dan 1
+  rotate: false
+  xy: 162, 14
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+lo dan 2
+  rotate: false
+  xy: 162, 14
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+lo dan 3
+  rotate: false
+  xy: 162, 14
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+lo dan 4
+  rotate: false
+  xy: 162, 14
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+lo dan 5
+  rotate: false
+  xy: 162, 14
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+lo dan 6
+  rotate: false
+  xy: 162, 14
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+manh chan
+  rotate: true
+  xy: 210, 0
+  size: 31, 23
+  orig: 33, 25
+  offset: 1, 1
+  index: -1
+manh chan 1
+  rotate: false
+  xy: 148, 0
+  size: 23, 6
+  orig: 25, 8
+  offset: 1, 1
+  index: -1
+manh chan 2
+  rotate: false
+  xy: 123, 0
+  size: 24, 6
+  orig: 26, 8
+  offset: 1, 1
+  index: -1
+manh chan 3
+  rotate: false
+  xy: 160, 25
+  size: 22, 6
+  orig: 24, 8
+  offset: 1, 1
+  index: -1
+nong do normal
+  rotate: true
+  xy: 146, 7
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+nong sung normal
+  rotate: false
+  xy: 172, 3
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+than sung 1
+  rotate: true
+  xy: 160, 32
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+than sung 2
+  rotate: true
+  xy: 234, 1
+  size: 47, 33
+  orig: 49, 35
+  offset: 1, 1
+  index: -1

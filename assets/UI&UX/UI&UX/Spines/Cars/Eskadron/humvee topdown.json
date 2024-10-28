@@ -1,0 +1,100 @@
+{
+"skeleton": {
+	"hash": "PkIuR9eELpMm/qjGQ6GFgphkOms",
+	"spine": "3.8.99",
+	"x": -22.57,
+	"y": -30.79,
+	"width": 45.14,
+	"height": 67.09,
+	"images": "../images/",
+	"audio": "D:/ANIMATION/TANK PROJECT/JEEP ANIM/NEW"
+},
+"bones": [
+	{ "name": "root", "rotation": -0.12 },
+	{ "name": "Scale", "parent": "root" },
+	{ "name": "body", "parent": "Scale" },
+	{ "name": "bone_gun", "parent": "body", "x": 0.02, "y": -11.12 }
+],
+"slots": [
+	{ "name": "banh1_huvee", "bone": "body", "attachment": "banh1_eskadron" },
+	{ "name": "banh1_huvee2", "bone": "body", "attachment": "banh1_eskadron" },
+	{ "name": "body_huvee", "bone": "body", "attachment": "body_eskadron" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"banh1_huvee": {
+				"banh1_eskadron": { "x": 18.49, "y": 2.84, "scaleX": -1, "width": 8, "height": 53 },
+				"banh2_eskadron": { "x": 18.49, "y": 2.84, "scaleX": -1, "width": 8, "height": 53 }
+			},
+			"banh1_huvee2": {
+				"banh1_eskadron": { "x": -18.51, "y": 2.76, "width": 8, "height": 53 },
+				"banh2_eskadron": { "x": -18.51, "y": 2.76, "width": 8, "height": 53 }
+			},
+			"body_huvee": {
+				"body_eskadron": { "x": -0.01, "y": 2.75, "width": 45, "height": 67 }
+			}
+		}
+	}
+],
+"animations": {
+	"Attack": {
+		"bones": {
+			"body": {
+				"translate": [
+					{},
+					{ "time": 0.0667, "y": -0.3 },
+					{ "time": 0.1333, "y": -0.59 },
+					{ "time": 0.2, "y": -0.3 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	},
+	"Idle": {
+		"bones": {
+			"body": {
+				"translate": [
+					{},
+					{ "time": 0.0667, "y": -0.3 },
+					{ "time": 0.1333, "y": -0.59 },
+					{ "time": 0.2, "y": -0.3 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	},
+	"Move": {
+		"slots": {
+			"banh1_huvee": {
+				"attachment": [
+					{ "time": 0.0667, "name": "banh2_eskadron" },
+					{ "time": 0.1333, "name": "banh1_eskadron" },
+					{ "time": 0.2, "name": "banh2_eskadron" },
+					{ "time": 0.2667, "name": "banh1_eskadron" }
+				]
+			},
+			"banh1_huvee2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "banh2_eskadron" },
+					{ "time": 0.1333, "name": "banh1_eskadron" },
+					{ "time": 0.2, "name": "banh2_eskadron" },
+					{ "time": 0.2667, "name": "banh1_eskadron" }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{},
+					{ "time": 0.0667, "y": -0.3 },
+					{ "time": 0.1333, "y": -0.59 },
+					{ "time": 0.2, "y": -0.3 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	}
+}
+}

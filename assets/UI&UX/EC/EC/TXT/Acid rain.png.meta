@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fdca5745-07d1-4e1e-b2b4-e9108e8f955b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 315,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "Acid rain": {
+      "ver": "1.0.6",
+      "uuid": "ace6afd1-4eec-426c-8b23-24dc1ee9e6e4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fdca5745-07d1-4e1e-b2b4-e9108e8f955b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 315,
+      "height": 62,
+      "rawWidth": 315,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

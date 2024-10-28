@@ -1,0 +1,97 @@
+{
+"skeleton": {
+	"hash": "mrE6N9OiCZBs3SqImS810O5CaPs",
+	"spine": "3.8.99",
+	"x": -22.43,
+	"y": -35.46,
+	"width": 45,
+	"height": 70,
+	"images": "../images/",
+	"audio": "D:/ANIMATION/TANK PROJECT/JEEP ANIM/NEW"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Scale", "parent": "root" },
+	{ "name": "Move 2", "parent": "Scale" }
+],
+"slots": [
+	{ "name": "Move 2", "bone": "Move 2", "attachment": "jeep 2" },
+	{ "name": "Move1", "bone": "Move 2", "attachment": "jeep 1" },
+	{ "name": "Move2", "bone": "Move 2", "attachment": "jeep 1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Move1": {
+				"jeep 1": { "x": -19.42, "y": 0.04, "width": 4, "height": 49 }
+			},
+			"Move 2": {
+				"jeep 2": { "x": 0.07, "y": -0.46, "width": 45, "height": 70 }
+			},
+			"Move2": {
+				"jeep 1": { "x": 19.57, "y": 0.02, "scaleX": -1, "width": 4, "height": 49 }
+			}
+		}
+	}
+],
+"animations": {
+	"Attack": {
+		"bones": {
+			"Move 2": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "y": 2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	},
+	"Idle": {
+		"bones": {
+			"Move 2": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.0667, "y": 0.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "y": 0.75, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "y": 0.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	},
+	"Move": {
+		"slots": {
+			"Move1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "jeep 1" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": "jeep 1" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"Move2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "jeep 1" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": "jeep 1" },
+					{ "time": 0.2667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Move 2": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.0667, "y": 0.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "y": 0.75, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "y": 0.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	}
+}
+}

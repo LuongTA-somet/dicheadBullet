@@ -1,0 +1,202 @@
+
+fx_bullet.png
+size: 597,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_bomb/Expl01_01
+  rotate: false
+  xy: 498, 161
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_02
+  rotate: false
+  xy: 484, 158
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_03
+  rotate: false
+  xy: 555, 90
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_04
+  rotate: false
+  xy: 153, 10
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_05
+  rotate: false
+  xy: 0, 148
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_06
+  rotate: false
+  xy: 0, 60
+  size: 85, 86
+  orig: 86, 86
+  offset: 1, 0
+  index: -1
+images/fx_bomb/Expl01_07
+  rotate: true
+  xy: 87, 61
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_08
+  rotate: true
+  xy: 173, 154
+  size: 83, 81
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_09
+  rotate: true
+  xy: 91, 153
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_10
+  rotate: false
+  xy: 345, 0
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_11
+  rotate: true
+  xy: 330, 73
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_12
+  rotate: true
+  xy: 336, 157
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_13
+  rotate: true
+  xy: 256, 72
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_14
+  rotate: true
+  xy: 404, 76
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_15
+  rotate: false
+  xy: 426, 2
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_16
+  rotate: true
+  xy: 410, 158
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_17
+  rotate: true
+  xy: 505, 0
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_18
+  rotate: true
+  xy: 281, 3
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_19
+  rotate: true
+  xy: 0, 2
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+images/fx_bomb/Expl01_20
+  rotate: true
+  xy: 555, 127
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+images/phao/bullet
+  rotate: true
+  xy: 550, 173
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+images/thunder_fx/thunder_1
+  rotate: true
+  xy: 82, 7
+  size: 51, 69
+  orig: 144, 116
+  offset: 27, 14
+  index: -1
+images/thunder_fx/thunder_2
+  rotate: false
+  xy: 256, 155
+  size: 78, 82
+  orig: 144, 116
+  offset: 28, 14
+  index: -1
+images/thunder_fx/thunder_3
+  rotate: false
+  xy: 173, 70
+  size: 81, 82
+  orig: 144, 116
+  offset: 29, 14
+  index: -1
+images/thunder_fx/thunder_4
+  rotate: false
+  xy: 478, 79
+  size: 75, 77
+  orig: 144, 116
+  offset: 32, 17
+  index: -1
+images/thunder_fx/thunder_5
+  rotate: true
+  xy: 200, 0
+  size: 68, 79
+  orig: 144, 116
+  offset: 39, 14
+  index: -1
+images/thunder_fx/thunder_6
+  rotate: false
+  xy: 484, 172
+  size: 64, 65
+  orig: 144, 116
+  offset: 43, 23
+  index: -1
+images/thunder_fx/thunder_7
+  rotate: false
+  xy: 55, 4
+  size: 25, 54
+  orig: 144, 116
+  offset: 80, 26
+  index: -1

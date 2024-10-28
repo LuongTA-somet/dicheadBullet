@@ -1,0 +1,20 @@
+
+GUn.png
+size: 27,36
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basic gun 1
+  rotate: true
+  xy: 2, 2
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+basic gun 2
+  rotate: true
+  xy: 2, 23
+  size: 11, 22
+  orig: 13, 24
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+GUn.skel_3.7_output.png
+size: 23,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun 1- 1
+  rotate: false
+  xy: 2, 2
+  size: 11, 20
+  orig: 13, 22
+  offset: 1, 1
+  index: -1
+gun 1- 2
+  rotate: false
+  xy: 2, 24
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1

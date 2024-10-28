@@ -1,0 +1,226 @@
+{
+"skeleton": {
+	"hash": "p7JzG/sod4NE28hEmEnxakJDfaA",
+	"spine": "3.8.99",
+	"x": -101.07,
+	"y": 0.04,
+	"width": 201.95,
+	"height": 225,
+	"images": "C:/Users/Nguye/OneDrive/Máy tính/ZONE7/IMG",
+	"audio": "C:\\Users\\Nguye\\OneDrive\\Máy tính\\ZONE7"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Scale", "parent": "root" },
+	{ "name": "Pad", "parent": "Scale", "y": 13.25 },
+	{ "name": "Run_man", "parent": "Pad", "x": -20.25, "y": 57.07, "scaleX": 0.8997, "scaleY": 0.8997 },
+	{ "name": "car", "parent": "Pad", "length": 15.52, "rotation": 90, "x": 46.03, "y": 115.27 }
+],
+"slots": [
+	{ "name": "Pad", "bone": "Pad", "attachment": "Pad" },
+	{ "name": "Pad3", "bone": "Pad", "attachment": "Pad" },
+	{ "name": "FLoor", "bone": "Pad", "attachment": "FLoor" },
+	{ "name": "FLoor2", "bone": "Pad", "attachment": "FLoor" },
+	{ "name": "Pavement", "bone": "Pad", "attachment": "Pavement" },
+	{ "name": "Pavement2", "bone": "Pad", "attachment": "Pavement" },
+	{ "name": "car", "bone": "car", "attachment": "car" },
+	{ "name": "house", "bone": "Pad", "attachment": "house" },
+	{ "name": "chimney base", "bone": "Pad", "attachment": "chimney base" },
+	{ "name": "chimney", "bone": "Pad", "attachment": "chimney" },
+	{ "name": "chimney2", "bone": "Pad", "attachment": "chimney" },
+	{ "name": "cotdien", "bone": "Pad", "attachment": "cotdien" },
+	{ "name": "smoke_1", "bone": "Pad", "attachment": "smoke_1" },
+	{ "name": "Pad2", "bone": "Pad", "attachment": "Pad2" },
+	{ "name": "soldier_2_1", "bone": "Pad", "attachment": "soldier_2_1" },
+	{ "name": "soldier_3_1", "bone": "Pad", "attachment": "soldier_3_1" },
+	{ "name": "running_man_1", "bone": "Run_man", "color": "b4b4b4ff" },
+	{ "name": "soldier_1_1", "bone": "Pad", "attachment": "soldier_1_1" },
+	{ "name": "dog1", "bone": "root", "attachment": "dog1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"FLoor": {
+				"FLoor": { "x": -43.94, "y": 106.79, "width": 90, "height": 120 }
+			},
+			"FLoor2": {
+				"FLoor": { "x": 43.85, "y": 106.79, "scaleX": -1, "width": 90, "height": 120 }
+			},
+			"Pad": {
+				"Pad": { "x": -50.57, "y": 78.79, "width": 101, "height": 184 }
+			},
+			"Pad2": {
+				"Pad2": { "x": 79.33, "y": 76.79, "width": 27, "height": 48 }
+			},
+			"Pad3": {
+				"Pad": { "x": 50.38, "y": 78.79, "scaleX": -1, "width": 101, "height": 184 }
+			},
+			"Pavement": {
+				"Pavement": { "x": -43.55, "y": 30.29, "width": 89, "height": 33 }
+			},
+			"Pavement2": {
+				"Pavement": { "x": 43.36, "y": 30.29, "scaleX": -1, "width": 89, "height": 33 }
+			},
+			"car": {
+				"car": { "x": 29.52, "y": -2.89, "rotation": -90, "width": 90, "height": 64 }
+			},
+			"chimney": {
+				"chimney": { "x": -59.41, "y": 194.29, "width": 13, "height": 31 }
+			},
+			"chimney2": {
+				"chimney": { "x": -43.29, "y": 194.29, "width": 13, "height": 31 }
+			},
+			"chimney base": {
+				"chimney base": { "x": -50.85, "y": 179.29, "width": 38, "height": 31 }
+			},
+			"cotdien": {
+				"cotdien": { "x": -83.85, "y": 93.79, "width": 34, "height": 82 }
+			},
+			"dog1": {
+				"dog1": { "x": 69.87, "y": 48.54, "width": 18, "height": 21 },
+				"dog2": { "x": 69.87, "y": 48.04, "width": 18, "height": 20 },
+				"dog3": { "x": 69.87, "y": 48.04, "width": 18, "height": 20 },
+				"dog4": { "x": 69.87, "y": 48.56, "width": 18, "height": 21 },
+				"dog5": { "x": 69.87, "y": 49.08, "width": 18, "height": 22 },
+				"dog6": { "x": 69.87, "y": 48.06, "width": 18, "height": 20 }
+			},
+			"house": {
+				"house": { "x": -19.35, "y": 118.29, "width": 129, "height": 187 }
+			},
+			"running_man_1": {
+				"running_man_1": { "x": 0.72, "y": 9.36, "width": 27, "height": 34 },
+				"running_man_2": { "x": 0.72, "y": 9.36, "width": 25, "height": 33 }
+			},
+			"smoke_1": {
+				"smoke_1": { "x": -44.85, "y": 142.79, "width": 30, "height": 38 },
+				"smoke_2": { "x": -45.35, "y": 142.79, "width": 29, "height": 40 },
+				"smoke_3": { "x": -45.35, "y": 142.79, "width": 31, "height": 40 },
+				"smoke_4": { "x": -45.35, "y": 146.29, "width": 31, "height": 39 },
+				"smoke_5": { "x": -47.85, "y": 146.79, "width": 34, "height": 38 },
+				"smoke_6": { "x": -45.35, "y": 147.79, "width": 33, "height": 38 }
+			},
+			"soldier_1_1": {
+				"soldier_1_1": { "x": -49.35, "y": 52.29, "width": 21, "height": 35 },
+				"soldier_1_2": { "x": -49.35, "y": 52.29, "width": 21, "height": 35 },
+				"soldier_1_3": { "x": -49.35, "y": 53.29, "width": 21, "height": 37 },
+				"soldier_1_4": { "x": -49.35, "y": 52.29, "width": 21, "height": 35 },
+				"soldier_1_5": { "x": -49.85, "y": 46.29, "width": 36, "height": 35 },
+				"soldier_1_6": { "x": -50.35, "y": 46.79, "width": 35, "height": 36 }
+			},
+			"soldier_2_1": {
+				"soldier_2_1": { "x": 80.15, "y": 86.29, "width": 24, "height": 35 },
+				"soldier_2_2": { "x": 80.15, "y": 85.79, "width": 24, "height": 34 }
+			},
+			"soldier_3_1": {
+				"soldier_3_1": { "x": 59.15, "y": 168.29, "width": 24, "height": 33 },
+				"soldier_3_2": { "x": 59.15, "y": 168.29, "width": 24, "height": 32 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"dog1": {
+				"attachment": [
+					{ "time": 0.2, "name": "dog2" },
+					{ "time": 0.4, "name": "dog3" },
+					{ "time": 0.6, "name": "dog4" },
+					{ "time": 0.8, "name": "dog5" },
+					{ "time": 1, "name": "dog6" }
+				]
+			},
+			"running_man_1": {
+				"color": [
+					{ "time": 0.0667, "color": "b4b4b4ff" },
+					{ "time": 0.1333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.0667, "name": "running_man_1" },
+					{ "time": 0.1333, "name": "running_man_2" },
+					{ "time": 0.2, "name": "running_man_1" },
+					{ "time": 0.2667, "name": "running_man_2" },
+					{ "time": 0.3333, "name": "running_man_1" },
+					{ "time": 0.4, "name": "running_man_2" },
+					{ "time": 0.4667, "name": "running_man_1" },
+					{ "time": 0.5333, "name": "running_man_2" },
+					{ "time": 0.6, "name": "running_man_1" },
+					{ "time": 0.6667, "name": "running_man_2" },
+					{ "time": 0.7333, "name": "running_man_1" },
+					{ "time": 0.8, "name": "running_man_2" },
+					{ "time": 0.8667, "name": "running_man_1" },
+					{ "time": 0.9333, "name": "running_man_2" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"smoke_1": {
+				"attachment": [
+					{ "time": 0.1, "name": "smoke_2" },
+					{ "time": 0.2, "name": "smoke_3" },
+					{ "time": 0.3, "name": "smoke_4" },
+					{ "time": 0.4, "name": "smoke_5" },
+					{ "time": 0.5, "name": "smoke_6" },
+					{ "time": 0.6, "name": "smoke_2" },
+					{ "time": 0.7, "name": "smoke_3" },
+					{ "time": 0.8, "name": "smoke_4" },
+					{ "time": 0.9, "name": "smoke_5" },
+					{ "time": 1, "name": "smoke_6" }
+				]
+			},
+			"soldier_1_1": {
+				"attachment": [
+					{ "time": 0.1, "name": "soldier_1_2" },
+					{ "time": 0.2, "name": "soldier_1_3" },
+					{ "time": 0.3, "name": "soldier_1_4" },
+					{ "time": 0.4, "name": "soldier_1_5" },
+					{ "time": 0.5, "name": "soldier_1_6" },
+					{ "time": 0.6, "name": "soldier_1_5" },
+					{ "time": 0.7, "name": "soldier_1_6" },
+					{ "time": 0.8, "name": "soldier_1_5" },
+					{ "time": 0.9, "name": "soldier_1_6" }
+				]
+			},
+			"soldier_2_1": {
+				"attachment": [
+					{ "time": 0.1, "name": "soldier_2_2" },
+					{ "time": 0.2, "name": "soldier_2_1" },
+					{ "time": 0.4667, "name": "soldier_2_2" },
+					{ "time": 0.7333, "name": "soldier_2_1" },
+					{ "time": 1, "name": "soldier_2_2" }
+				]
+			},
+			"soldier_3_1": {
+				"attachment": [
+					{ "time": 0.1, "name": "soldier_3_2" },
+					{ "time": 0.2, "name": "soldier_3_1" },
+					{ "time": 0.4667, "name": "soldier_3_2" },
+					{ "time": 0.7333, "name": "soldier_3_1" },
+					{ "time": 1, "name": "soldier_3_2" }
+				]
+			}
+		},
+		"bones": {
+			"Run_man": {
+				"translate": [
+					{ "time": 0.0667 },
+					{ "time": 0.1333, "x": 3.84, "y": -7.07 },
+					{ "time": 0.2, "x": 8.15, "y": -11.56 },
+					{ "time": 0.2667, "x": 12.47, "y": -16.06 },
+					{ "time": 0.3333, "x": 16.78, "y": -20.55 },
+					{ "time": 0.4, "x": 21.09, "y": -25.05 },
+					{ "time": 0.4667, "x": 29.83, "y": -25.05 },
+					{ "time": 0.5333, "x": 38.57, "y": -25.05 },
+					{ "time": 0.6, "x": 47.31, "y": -25.05 },
+					{ "time": 0.6667, "x": 56.05, "y": -25.05 },
+					{ "time": 0.7333, "x": 64.79, "y": -25.05 },
+					{ "time": 0.8, "x": 73.53, "y": -25.05 },
+					{ "time": 0.8667, "x": 73.53, "y": -16.85 },
+					{ "time": 0.9333, "x": 73.53, "y": -8.65 },
+					{ "time": 1, "x": 73.53, "y": -0.45 }
+				]
+			}
+		}
+	}
+}
+}

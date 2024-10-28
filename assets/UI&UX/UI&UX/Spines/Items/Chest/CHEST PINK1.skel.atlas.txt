@@ -1,0 +1,160 @@
+
+CHEST PINK1.skel.png
+size: 759,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Close_Down
+  rotate: false
+  xy: 145, 59
+  size: 103, 81
+  orig: 105, 83
+  offset: 1, 1
+  index: -1
+Close_gray
+  rotate: false
+  xy: 292, 10
+  size: 101, 61
+  orig: 103, 63
+  offset: 1, 1
+  index: -1
+Close_up
+  rotate: false
+  xy: 395, 18
+  size: 99, 71
+  orig: 101, 73
+  offset: 1, 1
+  index: -1
+Light2
+  rotate: false
+  xy: 2, 54
+  size: 141, 86
+  orig: 145, 88
+  offset: 2, 1
+  index: -1
+Open
+  rotate: true
+  xy: 604, 5
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1
+Open_Gray
+  rotate: false
+  xy: 496, 2
+  size: 106, 88
+  orig: 108, 90
+  offset: 1, 1
+  index: -1
+Open_Gray2
+  rotate: true
+  xy: 682, 56
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+item1
+  rotate: false
+  xy: 473, 92
+  size: 47, 48
+  orig: 51, 52
+  offset: 2, 2
+  index: -1
+item1 copy
+  rotate: false
+  xy: 522, 92
+  size: 47, 48
+  orig: 51, 52
+  offset: 2, 2
+  index: -1
+item2
+  rotate: true
+  xy: 74, 4
+  size: 48, 51
+  orig: 52, 55
+  offset: 2, 2
+  index: -1
+item2 copy
+  rotate: true
+  xy: 127, 4
+  size: 48, 51
+  orig: 52, 55
+  offset: 2, 2
+  index: -1
+item3
+  rotate: false
+  xy: 373, 91
+  size: 48, 49
+  orig: 52, 53
+  offset: 2, 2
+  index: -1
+item3 copy
+  rotate: false
+  xy: 423, 91
+  size: 48, 49
+  orig: 52, 53
+  offset: 2, 2
+  index: -1
+item4
+  rotate: false
+  xy: 571, 93
+  size: 47, 47
+  orig: 49, 51
+  offset: 1, 2
+  index: -1
+item4 copy
+  rotate: false
+  xy: 620, 93
+  size: 47, 47
+  orig: 49, 51
+  offset: 1, 2
+  index: -1
+item5
+  rotate: false
+  xy: 180, 2
+  size: 54, 55
+  orig: 58, 57
+  offset: 2, 1
+  index: -1
+item5 copy
+  rotate: false
+  xy: 236, 2
+  size: 54, 55
+  orig: 58, 57
+  offset: 2, 1
+  index: -1
+lap lanh1
+  rotate: false
+  xy: 250, 64
+  size: 5, 7
+  orig: 7, 9
+  offset: 1, 1
+  index: -1
+lap lanh3
+  rotate: false
+  xy: 250, 64
+  size: 5, 7
+  orig: 7, 9
+  offset: 1, 1
+  index: -1
+laplanh2
+  rotate: false
+  xy: 250, 64
+  size: 5, 7
+  orig: 7, 9
+  offset: 1, 1
+  index: -1
+light3
+  rotate: true
+  xy: 2, 6
+  size: 46, 70
+  orig: 58, 85
+  offset: 6, 1
+  index: -1
+light4
+  rotate: false
+  xy: 250, 73
+  size: 121, 67
+  orig: 125, 72
+  offset: 1, 1
+  index: -1

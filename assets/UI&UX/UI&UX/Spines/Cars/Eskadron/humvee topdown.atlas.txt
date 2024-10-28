@@ -1,0 +1,27 @@
+
+humvee topdown.png
+size: 77,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banh1_eskadron
+  rotate: false
+  xy: 69, 2
+  size: 6, 51
+  orig: 8, 53
+  offset: 1, 1
+  index: -1
+banh2_eskadron
+  rotate: true
+  xy: 2, 2
+  size: 6, 51
+  orig: 8, 53
+  offset: 1, 1
+  index: -1
+body_eskadron
+  rotate: true
+  xy: 2, 10
+  size: 43, 65
+  orig: 45, 67
+  offset: 1, 1
+  index: -1

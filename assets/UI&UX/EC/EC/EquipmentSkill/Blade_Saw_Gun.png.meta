@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e791ff02-cc80-4f80-824a-510d2e247bce",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 118,
+  "platformSettings": {},
+  "subMetas": {
+    "Blade_Saw_Gun": {
+      "ver": "1.0.6",
+      "uuid": "e4bdc589-4d0f-49f6-84aa-ee7e667234e7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e791ff02-cc80-4f80-824a-510d2e247bce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
